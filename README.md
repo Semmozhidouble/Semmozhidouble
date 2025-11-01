@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey there, I'm <b>Semmozhiyan N S</b> 👋</h1>
-<h3 align="center">3rd‑year B.E. Computer Science • Python & Java Learner • Mini‑Project Maker</h3>
+<h3 align="center">3rd‑year B.E. Computer Science • Python & Java Learner •Project Maker</h3>
 
 ---
 
