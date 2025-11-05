@@ -7,9 +7,9 @@
 ### 🧑‍💻 About Me
 - 🎓 **Education**: 3rd‑year B.E. Computer Science  
 - 🔭 **Currently learning**: Python, SQL basics, Java, and Blockchain  
-- 🚀 **Mini Projects**:  
+- 🚀 **Projects**:  
   - *Healthcare* utilities (AI‑powered and blockchain‑inspired)  
-  - *Travel & Tourism* assistant (Smart India Hackathon)  
+  - *Wanderlite Travel & Tourism* assistant (Smart India Hackathon)  
   - **AirPreQ** – smart air‑quality data project
 
 ---
