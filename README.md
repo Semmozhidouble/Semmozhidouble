@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hey there, I'm <b>Semmozhiyan N S</b> 👋</h1>
 <h3 align="center">3rd‑year B.E. Computer Science • Python & Java Developer >Transition to Devops engineer •Project Maker</h3>
-<h3 align="center">Old github account <img src="https://github.com/semmozhi-ctrl" />
+<h3 align="center">Old github account <a href="https://github.com/semmozhi-ctrl" >
 
 ---
 
