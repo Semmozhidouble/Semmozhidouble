@@ -1,12 +1,13 @@
 <!-- Header -->
 <h1 align="center">Hey there, I'm <b>Semmozhiyan N S</b> 👋</h1>
-<h3 align="center">3rd‑year B.E. Computer Science • Python & Java Learner •Project Maker</h3>
+<h3 align="center">3rd‑year B.E. Computer Science • Python & Java Developer >Transition to Devops engineer •Project Maker</h3>
+<h3 align="center">Old github account <img src="https://github.com/semmozhi-ctrl" />
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 **Education**: 3rd‑year B.E. Computer Science  
-- 🔭 **Currently learning**: Python, SQL basics, Java, and Blockchain  
+- 🔭 **Currently learning**: Python, SQL, Java, and Blockchain  
 - 🚀 **Projects**:  
   - *Healthcare* utilities (AI‑powered and blockchain‑inspired)  
   - *Wanderlite Travel & Tourism* assistant (Smart India Hackathon)  
