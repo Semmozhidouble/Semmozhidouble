@@ -48,7 +48,7 @@ Docker • GitHub Actions (CI/CD) • Linux • Deployment Workflows
 MySQL • SQLite
 
 ### 👉 Tools & Platforms
-Git • GitHub • VS Code • Postman • Jupyter • Notion
+Git • GitHub • VS Code • Postman • Versel • Notion
 
 ### 👉 Design & Productivity
 Figma • Canva
