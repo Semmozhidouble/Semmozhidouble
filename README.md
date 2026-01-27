@@ -1,67 +1,87 @@
-<!-- Header -->
-<h1 align="center">Hey there, I'm <b>Semmozhiyan N S</b> 👋</h1>
-<h3 align="center">3rd‑year B.E. Computer Science • Python & Java Developer >Transition to Devops engineer •Project Maker</h3>
-<h3 align="center">Old github account <a href="https://github.com/semmozhi-ctrl" >
-
----
-
-### 🧑‍💻 About Me
-- 🎓 **Education**: 3rd‑year B.E. Computer Science  
-- 🔭 **Currently learning**: Python, SQL, Java, and Blockchain  
-- 🚀 **Projects**:  
-  - *Healthcare* utilities (AI‑powered and blockchain‑inspired)  
-  - *Wanderlite Travel & Tourism* assistant (Smart India Hackathon)  
-  - **AirPreQ** – smart air‑quality data project
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <!-- Core languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql" />
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=flask,django" />
-  <!-- Design / Productivity -->
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
-  <!-- Extras -->
-  <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Semmozhiyan N S</h1>
+<h3 align="center">Computer Science Undergraduate | Aspiring DevOps Engineer | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semmozhi-ctrl&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semmozhi-ctrl&layout=compact&theme=tokyonight" />
+Focused on building reliable software systems and transitioning into DevOps and cloud engineering with an emphasis on automation, scalability, and infrastructure best practices.
 </p>
 
 ---
 
-### 🔥 Contribution Activity
+## Professional Summary
+
+I am a Computer Science undergraduate with a strong foundation in programming and backend development, currently specializing in DevOps practices and cloud technologies. My interests include automation, CI/CD pipelines, containerization, and building scalable, production-ready systems.
+
+I am actively developing hands-on projects to strengthen my expertise in infrastructure, deployment workflows, and system reliability.
+
+**Previous GitHub Account:**  
+My earlier GitHub profile (<a href="https://github.com/semmozhi-ctrl">semmozhi-ctrl</a>) became inaccessible due to account recovery issues. This account now serves as my primary professional portfolio where I am rebuilding and maintaining all current and future work.
+
+---
+
+## Technical Skills
+
+### Languages
+- Python  
+- Java  
+- PHP  
+- SQL  
+
+### Frameworks & Technologies
+- Flask  
+- Django  
+- Git & GitHub  
+- Linux  
+
+### DevOps (Learning & Practicing)
+- Docker  
+- CI/CD fundamentals  
+- System deployment workflows  
+
+### Tools & Design
+- Figma  
+- Canva  
+- Notion  
+
+---
+
+## Projects
+
+### Healthcare Utilities  
+Developed software tools focused on improving healthcare data accessibility and reliability using intelligent processing concepts.
+
+### Wanderlite – Travel & Tourism Assistant  
+Smart India Hackathon project designed to enhance travel planning through structured data handling and recommendation logic.
+
+### AirPreQ – Air Quality Monitoring  
+A data-driven project focused on collecting, analyzing, and visualizing air quality information for environmental insights.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semmozhi-ctrl&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=default" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
-<p>
-  <a href="mailto:semmozhiyan40@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_calm_edge_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## Contribution Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semmozhi-ctrl&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=github" />
+</p>
+
+---
+
+## Contact
+
+- 📧 Email: semmozhiyan40@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/
+
+---
+
+<p align="center">
+  <i>Engineering reliable systems through continuous learning and practical implementation.</i>
 </p>
