@@ -7,10 +7,12 @@ Building reliable systems, automating workflows, and transitioning into DevOps &
 
 ---
 
-## 🔥 Streak Stats
+
+## 📈 Contribution Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Semmozhidouble&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&count_private=true" />
 </p>
+
 
 
 ---
