@@ -2,63 +2,26 @@
 <h3 align="center">Computer Science Undergraduate | Aspiring DevOps Engineer | Backend Developer</h3>
 
 <p align="center">
-Focused on building reliable software systems and transitioning into DevOps and cloud engineering with an emphasis on automation, scalability, and infrastructure best practices.
+Building reliable systems, automating workflows, and transitioning into DevOps & Cloud Engineering.
 </p>
 
 ---
 
-## Professional Summary
-
-I am a Computer Science undergraduate with a strong foundation in programming and backend development, currently specializing in DevOps practices and cloud technologies. My interests include automation, CI/CD pipelines, containerization, and building scalable, production-ready systems.
-
-I am actively developing hands-on projects to strengthen my expertise in infrastructure, deployment workflows, and system reliability.
-
-**Previous GitHub Account:**  
-My earlier GitHub profile (<a href="https://github.com/semmozhi-ctrl">semmozhi-ctrl</a>) became inaccessible due to account recovery issues. This account now serves as my primary professional portfolio where I am rebuilding and maintaining all current and future work.
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Semmozhidouble&theme=default" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## Technical Skills
-
-### Languages
-- Python  
-- Java  
-- PHP  
-- SQL  
-
-### Frameworks & Technologies
-- Flask  
-- Django  
-- Git & GitHub  
-- Linux  
-
-### DevOps (Learning & Practicing)
-- Docker  
-- CI/CD fundamentals  
-- System deployment workflows  
-
-### Tools & Design
-- Figma  
-- Canva  
-- Notion  
+## 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=github" />
+</p>
 
 ---
 
-## Projects
-
-### Healthcare Utilities  
-Developed software tools focused on improving healthcare data accessibility and reliability using intelligent processing concepts.
-
-### Wanderlite – Travel & Tourism Assistant  
-Smart India Hackathon project designed to enhance travel planning through structured data handling and recommendation logic.
-
-### AirPreQ – Air Quality Monitoring  
-A data-driven project focused on collecting, analyzing, and visualizing air quality information for environmental insights.
-
----
-
-## GitHub Statistics
-
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=default" />
   <br/>
@@ -67,21 +30,57 @@ A data-driven project focused on collecting, analyzing, and visualizing air qual
 
 ---
 
-## Contribution Activity
+## 🧠 My Skills
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=github" />
+### 👉 Programming Languages
+C • Java • Python • SQL
+
+### 👉 Backend Development
+Flask • Django • REST APIs • Database Integration
+
+### 👉 DevOps & Cloud (Learning & Practicing)
+Docker • GitHub Actions (CI/CD) • Linux • Deployment Workflows
+
+### 👉 Databases
+MySQL • SQLite
+
+### 👉 Tools & Platforms
+Git • GitHub • VS Code • Postman • Jupyter • Notion
+
+### 👉 Design & Productivity
+Figma • Canva
+
+---
+
+## 🚀 Key Projects
+
+### 🏥 Healthcare Utilities  
+Software tools focused on improving healthcare data accessibility and reliability.
+
+### 🌍 Wanderlite – Travel & Tourism Assistant  
+Smart India Hackathon project for intelligent travel planning and structured data usage.
+
+### 🌫️ AirPreQ – Air Quality Monitoring  
+Air quality data collection and visualization project for environmental analysis.
+
+---
+
+## 📌 Previous GitHub Account
+
+My earlier GitHub profile (<a href="https://github.com/semmozhi-ctrl">semmozhi-ctrl</a>) became inaccessible due to account recovery issues.  
+This account is now my primary professional profile where all active and future projects are maintained.
+
+---
+
+## 🙋‍♂️ Let’s Connect
+<p>
+  <a href="mailto:semmozhiyan40@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/">LinkedIn</a> •
+  <a href="https://www.instagram.com/_calm_edge_">Instagram</a>
 </p>
 
 ---
 
-## Contact
-
-- 📧 Email: semmozhiyan40@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/
-
----
-
 <p align="center">
-  <i>Engineering reliable systems through continuous learning and practical implementation.</i>
+  <i>Focused on continuous learning, practical implementation, and building production-ready systems.</i>
 </p>
