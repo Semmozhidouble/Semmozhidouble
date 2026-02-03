@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Analytics Dashboard
 
-![Metrics](https://github.com/Semmozhidouble/Semmozhidouble/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Semmozhidouble/Semmozhidouble/main/github-metrics.svg)
 
 ---
 
