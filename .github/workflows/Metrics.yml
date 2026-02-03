@@ -1,0 +1,73 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Semmozhidouble
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+          # 🗓 Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 💻 Languages usage
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # 📈 Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          # 📊 Lines of code changed
+          plugin_lines: yes
+
+          # 🚦 Repo traffic stats
+          plugin_traffic: yes
+
+          # 🔄 Follow-up issues & PRs
+          plugin_followup: yes
+
+          # ⏱ Coding habits & hours
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # 🏷 Topics you work with
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+          # ⭐ Starred repositories
+          plugin_stars: yes
+
+          # 📦 Highlight repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: Semmozhidouble/wanderlite-travel-and-tourism,Semmozhidouble/semmozhi-portfolio
+
+          # 👥 Followers & contributors
+          plugin_people: yes
+          plugin_people_types: followers, contributors
+          plugin_people_limit: 24
+
+          # 🏙 3D Contribution Skyline
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
