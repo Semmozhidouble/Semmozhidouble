@@ -46,8 +46,8 @@
 ---
 
 ## 📊 GitHub Performance
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Semmozhidouble&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight)
 
