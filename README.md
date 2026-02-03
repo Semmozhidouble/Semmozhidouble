@@ -57,7 +57,6 @@
 
 ---
 
-## 📊 GitHub Performance Stats
 
 ## 📊 GitHub Performance & Achievements
 
