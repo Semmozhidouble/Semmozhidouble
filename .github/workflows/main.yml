@@ -1,25 +1,74 @@
-name: Generate Pacman Contribution Graph
+name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:         # Allows manual run
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: platane/snk@v3
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: Semmozhidouble
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Semmozhidouble
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+          config_display: large
+
+          # 🗓 Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 💻 Languages usage
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          # 📈 Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          # 📊 Lines of code changed
+          plugin_lines: yes
+
+          # 🚦 Repo traffic stats
+          plugin_traffic: yes
+
+          # 🔄 Follow-up issues & PRs
+          plugin_followup: yes
+
+          # ⏱ Coding habits & hours
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # 🏷 Topics worked on
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+          # ⭐ Starred repositories
+          plugin_stars: yes
+
+          # 📦 Highlight your best repos
+          plugin_repositories: yes
+          plugin_repositories_featured: Semmozhidouble/wanderlite-travel-and-tourism,Semmozhidouble/semmozhi-portfolio
+
+          # 👥 Followers & contributors
+          plugin_people: yes
+          plugin_people_types: followers, contributors
+          plugin_people_limit: 24
+
+          # 🏙 3D Contribution Skyline
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
