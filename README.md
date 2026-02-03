@@ -59,9 +59,14 @@
 
 ## 📊 GitHub Performance Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=Semmozhidouble&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
+## 📊 GitHub Performance & Achievements
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Semmozhidouble&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhidouble&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Semmozhidouble&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Semmozhidouble&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 ---
 
