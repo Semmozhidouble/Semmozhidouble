@@ -70,13 +70,26 @@
 ---
 
 
+
+
 ## 🚀 Featured Project
 
-<p align="center">
-  <a href="https://github.com/Semmozhidouble/wanderlite-travel-and-tourism">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=wanderlite-travel-and-tourism&theme=tokyonight&cache_seconds=1800" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 WanderLite Travel Platform  
+Smart travel planning & booking system built for structured, real-time travel services.
+
+🔧 Tech: JavaScript, APIs, Database Systems  
+
+<a href="https://github.com/Semmozhidouble/wanderlite-travel-and-tourism">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=wanderlite-travel-and-tourism&theme=tokyonight&cache_seconds=1800" />
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
