@@ -1,89 +1,121 @@
-<h1 align="center">Semmozhiyan N S</h1>
-<h3 align="center">Computer Science Undergraduate | Aspiring DevOps Engineer | Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Semmozhiyan N S</h1>
+<h3 align="center">Aspiring DevOps Engineer | Backend Developer | Automation Enthusiast</h3>
 
 <p align="center">
-Building reliable systems, automating workflows, and transitioning into DevOps & Cloud Engineering.
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems;Automating+Workflows;Future+DevOps+Engineer;Backend+Problem+Solver" />
 </p>
 
 ---
 
+## 🧠 About Me
 
-## 📈 Contribution Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&count_private=true" />
-</p>
-
-
-
----
-
-## 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=github" />
-</p>
+🎓 Computer Science Engineering Student  
+⚙️ Passionate about DevOps, Cloud Infrastructure & Backend Systems  
+🔁 I enjoy automating processes and building production-ready applications  
+📈 Currently focused on Docker, CI/CD, Linux & Kubernetes  
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=default" />
-</p>
+## 🚀 Tech Stack
 
----
-
-## 🧠 My Skills
-
-### 👉 Programming Languages
-C • Java • Python • SQL
-
-### 👉 Backend Development
-Flask • Django • REST APIs • Database Integration
-
-### 👉 DevOps & Cloud (Learning & Practicing)
-Docker • GitHub Actions (CI/CD) • Linux • Deployment Workflows
-
-### 👉 Databases
-MySQL • SQLite
-
-### 👉 Tools & Platforms
-Git • GitHub • VS Code • Postman • Versel • Notion
-
-### 👉 Design & Productivity
-Figma • Canva
-
----
-
-## 🚀 Key Projects
-
-### 🏥 Healthcare Utilities  
-Software tools focused on improving healthcare data accessibility and reliability.
-
-### 🌍 Wanderlite – Travel & Tourism Assistant  
-Smart India Hackathon project for intelligent travel planning and structured data usage.
-
-### 🌫️ AirPreQ – Air Quality Monitoring  
-Air quality data collection and visualization project for environmental analysis.
-
----
-
-## 📌 Previous GitHub Account
-
-My earlier GitHub profile (<a href="https://github.com/semmozhi-ctrl">semmozhi-ctrl</a>) became inaccessible due to account recovery issues.  
-This account is now my primary professional profile where all active and future projects are maintained.
-
----
-
-## 🙋‍♂️ Let’s Connect
+### 👨‍💻 Programming Languages
 <p>
-  <a href="mailto:semmozhiyan40@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/">LinkedIn</a> •
-  <a href="https://www.instagram.com/_calm_edge_">Instagram</a>
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
+</p>
+
+### 🧩 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
+</p>
+
+### ⚙️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,kubernetes" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
+
+### 🎨 Design & Productivity
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
+## 📊 GitHub Performance
+
 <p align="center">
-  <i>Focused on continuous learning, practical implementation, and building production-ready systems.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 👾 Contribution Visualizations
+
+### 🟡 Pac-Man Contribution Graph
+![Pacman Graph](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg)
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 WanderLite – Smart Travel Planning Platform
+A unified system for intelligent travel planning and booking with structured service integration.  
+**Tech:** JavaScript, APIs, Database Systems
+
+---
+
+### 🏥 Healthcare Utilities
+Software tools focused on improving healthcare data accessibility and reliability.  
+**Tech:** Python, Backend Systems
+
+---
+
+### 🌫️ AirPreQ – Air Quality Monitoring
+Environmental data collection and visualization system for monitoring air quality.  
+**Tech:** Python, Data Processing
+
+---
+
+## 🧪 DevOps Practice & Labs
+
+🔧 CI/CD Pipelines using GitHub Actions  
+🐳 Dockerized Full Stack Applications  
+☸️ Kubernetes Deployments  
+📊 Monitoring with Prometheus & Grafana  
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes Networking  
+- Infrastructure as Code (Terraform basics)  
+- Cloud Deployment Strategies  
+- Advanced Linux for DevOps  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:semmozhiyan40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/_calm_edge_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming manual systems into automated pipelines and exploring how large-scale infrastructure works behind the scenes.
