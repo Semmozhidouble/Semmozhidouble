@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 🎓 Computer Science Engineering Student  
-⚙️ Passionate about DevOps, Cloud Infrastructure & Backend Systems  
+⚙️ Passionate about DevOps, Cloud & Backend Systems  
 🔁 I enjoy automating processes and building production-ready applications  
 📈 Currently focused on Docker, CI/CD, Linux & Kubernetes  
 
@@ -45,23 +45,23 @@
 
 ---
 
-## 📊 GitHub Performance
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=Semmozhidouble&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
+## 📊 GitHub Analytics Dashboard
 
+![Metrics](https://github.com/Semmozhidouble/Semmozhidouble/blob/main/github-metrics.svg)
 
 ---
 
-## 👾 Contribution Visualizations
+## 📈 Contribution Activity
 
-### 🟡 Pac-Man Contribution Graph
-![Pacman Graph](https://github.com/Semmozhidouble/Semmozhidouble/blob/output/pacman-contribution-graph.svg)
-
-
-
-### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=tokyo-night)
+
+---
+
+## 📊 GitHub Performance Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=Semmozhidouble&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
@@ -71,13 +71,9 @@
 A unified system for intelligent travel planning and booking with structured service integration.  
 **Tech:** JavaScript, APIs, Database Systems
 
----
-
 ### 🏥 Healthcare Utilities
 Software tools focused on improving healthcare data accessibility and reliability.  
 **Tech:** Python, Backend Systems
-
----
 
 ### 🌫️ AirPreQ – Air Quality Monitoring
 Environmental data collection and visualization system for monitoring air quality.  
@@ -88,7 +84,7 @@ Environmental data collection and visualization system for monitoring air qualit
 ## 🧪 DevOps Practice & Labs
 
 🔧 CI/CD Pipelines using GitHub Actions  
-🐳 Dockerized Full Stack Applications  
+🐳 Dockerized Applications  
 ☸️ Kubernetes Deployments  
 📊 Monitoring with Prometheus & Grafana  
 
@@ -106,7 +102,7 @@ Environmental data collection and visualization system for monitoring air qualit
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:semmozhiyan40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto: semmozhiyan40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/_calm_edge_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
