@@ -61,7 +61,9 @@
 ## 👾 Contribution Visualizations
 
 ### 🟡 Pac-Man Contribution Graph
-![Pacman Graph](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg)
+![Pacman Graph](https://github.com/Semmozhidouble/Semmozhidouble/blob/output/pacman-contribution-graph.svg)
+
+
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
