@@ -46,10 +46,10 @@
 ---
 
 ## 📊 GitHub Performance
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=Semmozhidouble&theme=tokyonight&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Semmozhidouble&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight)
 
 ---
 
