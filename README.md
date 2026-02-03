@@ -69,18 +69,15 @@
 
 ---
 
-## 🚀 Featured Projects
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <p align="center">
   <a href="https://github.com/Semmozhidouble/wanderlite-travel-and-tourism">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=wanderlite-travel-and-tourism&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Semmozhidouble/semmozhi-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=semmozhi-portfolio&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=wanderlite-travel-and-tourism&theme=tokyonight&cache_seconds=1800" />
   </a>
 </p>
+
 
 
 ## 🧪 DevOps Practice & Labs
