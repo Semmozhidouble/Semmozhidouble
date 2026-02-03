@@ -71,19 +71,17 @@
 
 ## 🚀 Featured Projects
 
-### 🌍 WanderLite – Smart Travel Planning Platform
-A unified system for intelligent travel planning and booking with structured service integration.  
-**Tech:** JavaScript, APIs, Database Systems
+## 🚀 Featured Projects
 
-### 🏥 Healthcare Utilities
-Software tools focused on improving healthcare data accessibility and reliability.  
-**Tech:** Python, Backend Systems
+<p align="center">
+  <a href="https://github.com/Semmozhidouble/wanderlite-travel-and-tourism">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=wanderlite-travel-and-tourism&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Semmozhidouble/semmozhi-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=semmozhi-portfolio&theme=tokyonight" />
+  </a>
+</p>
 
-### 🌫️ AirPreQ – Air Quality Monitoring
-Environmental data collection and visualization system for monitoring air quality.  
-**Tech:** Python, Data Processing
-
----
 
 ## 🧪 DevOps Practice & Labs
 
