@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # Runs every 2 hours for near real-time updates
+    - cron: "0 * * * *"     # Runs every hour for real-time updates
   workflow_dispatch:       # Allows manual run
   push:
     branches:
@@ -46,14 +46,11 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: push, pr, issue, comment, fork, star
 
           # 📊 Lines of code changed
           plugin_lines: yes
           plugin_lines_history_limit: 1
-
-          # 🚦 Repo traffic stats
-          plugin_traffic: yes
 
           # 🔄 Follow-up issues & PRs
           plugin_followup: yes
@@ -61,10 +58,11 @@ jobs:
 
           # ⏱ Coding habits & hours
           plugin_habits: yes
-          plugin_habits_days: 30
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          plugin_habits_from: ghapi
 
           # 🏷 Topics worked on
           plugin_topics: yes
@@ -82,10 +80,6 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers, contributors
           plugin_people_limit: 24
-
-          # 🏙 3D Contribution Skyline
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
 
           # 📅 Commit calendar
           plugin_calendar: yes
