@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 * * * *"     # Runs every hour for real-time updates
+    - cron: "0 0 * * *"     # Runs once daily
   workflow_dispatch:       # Allows manual run
   push:
     branches:
@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: Semmozhidouble
+          user: semmozhiyan-dev
           template: classic
           base: header, activity, community, repositories, metadata
           output_action: commit
@@ -74,7 +74,7 @@ jobs:
 
           # 📦 Highlight your best repos
           plugin_repositories: yes
-          plugin_repositories_featured: Semmozhidouble/wanderlite-travel-and-tourism,Semmozhidouble/semmozhi-portfolio
+          plugin_repositories_featured: semmozhiyan-dev/wanderlite-travel-and-tourism,semmozhiyan-dev/semmozhi-portfolio
 
           # 👥 Followers & contributors
           plugin_people: yes
