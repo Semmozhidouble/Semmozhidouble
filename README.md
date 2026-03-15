@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems;Automating+Workflows;Future+DevOps+Engineer;Backend+Problem+Solver" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Semmozhidouble&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Semmozhidouble?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Semmozhidouble?label=Stars&style=flat&color=yellow" alt="Stars" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -45,6 +51,19 @@
 
 ---
 
+## 📊 Real-Time GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semmozhidouble&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics Dashboard
 
 ![Metrics](https://raw.githubusercontent.com/Semmozhidouble/Semmozhidouble/main/github-metrics.svg)
@@ -53,26 +72,33 @@
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=tokyo-night&hide_border=true)
 
 ---
-
 
 ## 📊 GitHub Performance & Achievements
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Semmozhidouble&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Semmozhidouble&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhidouble&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Semmozhidouble&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhidouble&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Semmozhidouble&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Semmozhidouble&theme=tokyonight&no-frame=true&row=1&column=6" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Semmozhidouble&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Semmozhidouble&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Semmozhidouble&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-
-
-
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -88,10 +114,22 @@ Smart travel planning & booking system built for structured, real-time travel se
 </a>
 
 </td>
+<td width="50%">
+
+### 💼 Portfolio Website  
+Personal portfolio showcasing projects, skills, and experience.
+
+🔧 Tech: HTML, CSS, JavaScript  
+
+<a href="https://github.com/Semmozhidouble/semmozhi-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=semmozhi-portfolio&theme=tokyonight&cache_seconds=1800" />
+</a>
+
+</td>
 </tr>
 </table>
 
-
+---
 
 ## 🧪 DevOps Practice & Labs
 
@@ -114,7 +152,7 @@ Smart travel planning & booking system built for structured, real-time travel se
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto: semmozhiyan40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:semmozhiyan40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/semmozhiyan-n-s-aa7478296/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/_calm_edge_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
@@ -124,3 +162,9 @@ Smart travel planning & booking system built for structured, real-time travel se
 ## ⚡ Fun Fact
 
 I enjoy transforming manual systems into automated pipelines and exploring how large-scale infrastructure works behind the scenes.
+
+---
+
+<p align="center">
+  <sub>⏱ Metrics auto-refresh every hour via GitHub Actions</sub>
+</p>
