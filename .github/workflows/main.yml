@@ -2,8 +2,11 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
-  workflow_dispatch:         # Allows manual run
+    - cron: "0 */2 * * *"   # Runs every 2 hours for near real-time updates
+  workflow_dispatch:       # Allows manual run
+  push:
+    branches:
+      - main               # Regenerate on every push to main
 
 jobs:
   github-metrics:
@@ -19,9 +22,13 @@ jobs:
           user: Semmozhidouble
           template: classic
           base: header, activity, community, repositories, metadata
+          output_action: commit
+          committer_message: "chore: update github-metrics.svg [skip ci]"
+          filename: github-metrics.svg
 
           config_timezone: Asia/Kolkata
           config_display: large
+          config_octicon: yes
 
           # 🗓 Contribution calendar
           plugin_isocalendar: yes
@@ -29,22 +36,28 @@ jobs:
 
           # 💻 Languages usage
           plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
 
           # 📈 Recent activity
           plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity_limit: 10
           plugin_activity_days: 14
+          plugin_activity_filter: all
 
           # 📊 Lines of code changed
           plugin_lines: yes
+          plugin_lines_history_limit: 1
 
           # 🚦 Repo traffic stats
           plugin_traffic: yes
 
           # 🔄 Follow-up issues & PRs
           plugin_followup: yes
+          plugin_followup_indepth: yes
 
           # ⏱ Coding habits & hours
           plugin_habits: yes
@@ -59,6 +72,7 @@ jobs:
 
           # ⭐ Starred repositories
           plugin_stars: yes
+          plugin_stars_limit: 4
 
           # 📦 Highlight your best repos
           plugin_repositories: yes
@@ -72,3 +86,7 @@ jobs:
           # 🏙 3D Contribution Skyline
           plugin_skyline: yes
           plugin_skyline_year: current-year
+
+          # 📅 Commit calendar
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
