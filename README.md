@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Semmozhidouble&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Semmozhidouble?label=Followers&style=flat&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Semmozhidouble?label=Stars&style=flat&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=semmozhiyan-dev&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/semmozhiyan-dev?label=Followers&style=flat&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/semmozhiyan-dev?label=Stars&style=flat&color=yellow" alt="Stars" />
 </p>
 
 ---
@@ -54,46 +54,46 @@
 ## 📊 Real-Time GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semmozhidouble&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semmozhidouble&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=semmozhiyan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semmozhiyan-dev&layout=compact&theme=tokyonight&langs_count=8&count_private=true&cache_seconds=1800" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Semmozhidouble&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semmozhiyan-dev&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics Dashboard
 
-![Metrics](https://raw.githubusercontent.com/Semmozhidouble/Semmozhidouble/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/semmozhiyan-dev/semmozhiyan-dev/main/github-metrics.svg)
 
 ---
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Semmozhidouble&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=semmozhiyan-dev&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 📊 GitHub Performance & Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Semmozhidouble&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semmozhiyan-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Semmozhidouble&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Semmozhidouble&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semmozhiyan-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=semmozhiyan-dev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Semmozhidouble&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Semmozhidouble&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=semmozhiyan-dev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semmozhiyan-dev&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Semmozhidouble&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=semmozhiyan-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -109,8 +109,8 @@ Smart travel planning & booking system built for structured, real-time travel se
 
 🔧 Tech: JavaScript, APIs, Database Systems  
 
-<a href="https://github.com/Semmozhidouble/wanderlite-travel-and-tourism">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=wanderlite-travel-and-tourism&theme=tokyonight&cache_seconds=1800" />
+<a href="https://github.com/semmozhiyan-dev/wanderlite-travel-and-tourism">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semmozhiyan-dev&repo=wanderlite-travel-and-tourism&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 </td>
@@ -121,8 +121,8 @@ Personal portfolio showcasing projects, skills, and experience.
 
 🔧 Tech: HTML, CSS, JavaScript  
 
-<a href="https://github.com/Semmozhidouble/semmozhi-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Semmozhidouble&repo=semmozhi-portfolio&theme=tokyonight&cache_seconds=1800" />
+<a href="https://github.com/semmozhiyan-dev/semmozhi-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semmozhiyan-dev&repo=semmozhi-portfolio&theme=tokyonight&cache_seconds=1800" />
 </a>
 
 </td>
